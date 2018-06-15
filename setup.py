@@ -16,8 +16,6 @@ setup_requires = [
     ]
 
 install_requires = [
-        'cx_Oracle',
-        'PyYAML',
     ]
 
 setup(
@@ -25,7 +23,7 @@ setup(
     version='1.0',
     description='Oracle DB TEST',
     long_description=long_description(),
-    url='https://github.com/s10cho/flare-py-1.1',
+    url='https://github.com/s10cho/webcroller-py-1.0',
     author='s10cho',
     author_email='',
     license='MIT',
